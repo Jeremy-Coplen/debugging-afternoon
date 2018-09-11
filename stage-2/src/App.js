@@ -33,6 +33,7 @@ class App extends Component {
       shoppingCart: newShoppingCart
     })
     console.log(this.state.shoppingCart);
+    console.log(product)
   }
 
   render() {
